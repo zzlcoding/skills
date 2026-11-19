@@ -9,6 +9,7 @@
 | 技能 | 说明 |
 | --- | --- |
 | [writing-interface-docs](writing-interface-docs/SKILL.md) | 编写对外接口文档。面向看不到本模块源码的对接方，只写契约不写实现。触发场景：写接口文档、对接文档、报文文档、API 文档、"让别的模块能接上"。 |
+| [git-feature-analyzer](git-feature-analyzer/SKILL.md) | 分析 Git 仓库中所有本地和远程分支在指定日期之后的功能变化，识别新增功能、功能增强、Bug 修复、性能优化、Merge / Cherry-pick 关联，生成各分支功能清单和全局统计报告。触发场景：分析 Git 仓库分支功能演进、跨分支功能对比、生成版本功能清单、识别 Merge / Cherry-pick 关联、统计项目独有 / 共享功能、生成多分支版本演进报告。 |
 
 ## 安装
 
